@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Angular Material version redirect",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Automatic redirection of https://material.angular.io/ to a specific verion",
     "icons": {
       "16": "icons/logo_16.png",
